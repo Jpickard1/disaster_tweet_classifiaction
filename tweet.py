@@ -1,35 +1,31 @@
-###################################################################
+#########################################################################################
 #
-#                              Tweet Class
-#   Joshua Pickard                                  June 2020
+#                                       Tweet Class
+#   Joshua Pickard                                                          June 2020
 #   jpic@umich.edu
 #
 #   Purpose: Stores data read in from training and test CSV files
 #
 #   Class attributes:
-#       1. id.........number associated with each tweet and line in
-#                     the CSV files
+#       1. id.........number associated with each tweet and line in the CSV files
 #       2. keyword....data field from CSV
 #       3. location...data field from CSV
-#       4. text.......the message from the tweet is stored as a 
-#                     list of words containing only alphnumeric
-#                     characters. All links are converted into the
+#       4. text.......the message from the tweet is stored as a list of words containing
+#                     only alphnumeric characters. All links are converted into the 
 #                     string "1234http5678link"
-#       5. target.....if the text is about a disaster, then the
-#                     target is 1. Otherwise, if it is labeled the
-#                     target is 0. All nonevalutated or prelabeled
+#       5. target.....if the text is about a disaster, then the target is 1. Otherwise,
+#                     if it is labeled the target is 0. All nonevalutated or prelabeled
 #                     tweets have a target of -1
 #
 #   Methods:
 #       - getters and setters for all class attributes
 #       - default constructor...
 #       - printers..............
-#       - formatWord............removes nonalphanumeric characters
-#                               and changes all links to
-#                               "1234http5678link"
+#       - formatWord............removes nonalphanumeric characters and changes all links
+#                               to "1234http5678link"
 #       - validate..............currently this is not helpful
 #
-###################################################################
+#########################################################################################
 
 import re
 
@@ -86,7 +82,7 @@ class Ctweet:
             return re.sub('[\W_]', '', word)
 
     def setText(self, p_text):
-        self.text =p_text.lower().split()
+        self.text =set(p_text.lower().split())
         i = 0
         while i < len(self.text):
             formated_word = self.formatWord(self.text[i])
