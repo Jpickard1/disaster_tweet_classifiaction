@@ -1,0 +1,1502 @@
+test data:
+  correct = music, predicted = worldnews, log-probability score = -71.07251241551877
+  content =  r kelly is charged with using bribes to marry aaliyah at age 15
+
+  correct = music, predicted = music, log-probability score = -32.88729691834703
+  content =  the mars volta  tetragrammaton progressive rock
+
+  correct = music, predicted = music, log-probability score = -96.77603723047838
+  content =  i’m brittany howard singer songwriter guitarist of the band alabama shakes and solo recording artist ama
+
+  correct = music, predicted = movies, log-probability score = -90.6687020669078
+  content =  robyn  dancing on my own takes 1 spot in rolling stones list of the 100 best songs of the 2010s
+
+  correct = music, predicted = music, log-probability score = -43.24435798045467
+  content =  van halen  ain’t talkin’ ‘bout love hard rock
+
+  correct = music, predicted = worldnews, log-probability score = -93.97850294887651
+  content =  r kelly has been charged with bribing an official for the fake id that allowed 15yearold aaliyah to marry him
+
+  correct = music, predicted = worldnews, log-probability score = -52.956779162574975
+  content =  just announced  soundcloud is rescinding their upcoming upload change
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -188.581785605068
+  content =  with a lot of help from reddit my playlist has grown to over 1000 followers planning to look through a ton of reddit submissions and update the playlist by tomorrow an chill yet energetic blend of rnbrap perfect for studying working or just relaxing
+
+  correct = music, predicted = music, log-probability score = -25.397085877096195
+  content =  falco  rock me amadeus pop
+
+  correct = music, predicted = movies, log-probability score = -40.11701701613461
+  content =  eddie murphy  party all the time dance 1985
+
+  correct = music, predicted = music, log-probability score = -32.54239690362217
+  content =  genesis  land of confusion pop rock hq
+
+  correct = music, predicted = music, log-probability score = -29.243800135027023
+  content =  where is my mind  pixies  alternative rock 
+
+  correct = music, predicted = music, log-probability score = -23.781211724762436
+  content =  garbage  stupid girl alternative rock
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -57.619575928291034
+  content =  the rolling stones album let it bleed turns 50 today
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -49.707753518490094
+  content =  gogol bordello  the other side of rainbow gypsy punk
+
+  correct = music, predicted = music, log-probability score = -33.748224484182344
+  content =  vulfpeck  dean town live bluesfunkacoustic
+
+  correct = music, predicted = music, log-probability score = -46.551303768421675
+  content =  mr bungle  stubb a dub alternative carnivalfunkmetal
+
+  correct = music, predicted = music, log-probability score = -42.976226155013364
+  content =  pablo eskybrah  reverb ft friendlyjordies hiphop
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -74.35071637404707
+  content =  we are black pumas we were just nominated for a best new artist grammy ask us anything
+
+  correct = music, predicted = music, log-probability score = -34.78423068367844
+  content =  minor threat  filler punk rock 1984
+
+  correct = music, predicted = music, log-probability score = -22.84459901995592
+  content =  the cars  drive new wave
+
+  correct = music, predicted = music, log-probability score = -52.234405898945674
+  content =  lemmy slash  dave grohl  ace of spades metal
+
+  correct = music, predicted = music, log-probability score = -42.66579495614282
+  content =  creedence clearwater revival  wholl stop the rain classic rock
+
+  correct = music, predicted = music, log-probability score = -30.774965066480416
+  content =  fleetwood mac  silver springs rock
+
+  correct = music, predicted = music, log-probability score = -26.844321108458164
+  content =  allister  to be with you alternative rock
+
+  correct = music, predicted = worldnews, log-probability score = -34.197224871383995
+  content =  fiona apple  sleep to dream alternative rock
+
+  correct = music, predicted = movies, log-probability score = -38.978389233638964
+  content =  carpenter brut  maniac cover synthwaveelectronicrock
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -61.252793330566504
+  content =  james brown — santa claus head straight to the ghetto holiday
+
+  correct = music, predicted = worldnews, log-probability score = -57.53894465671167
+  content =  system of a down vs coldplay  fixicity mashup strangely beautiful
+
+  correct = music, predicted = gaming, log-probability score = -42.87957708729526
+  content =  chip skylark  my shiny teeth and me pop
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -44.670656425293025
+  content =  flight of the conchords  the most beautiful girl in the room comedy
+
+  correct = music, predicted = music, log-probability score = -39.86949996617672
+  content =  black sheep  the choice is yours hip hop
+
+  correct = music, predicted = music, log-probability score = -21.230316712507786
+  content =  def leppard  photograph rock
+
+  correct = music, predicted = worldnews, log-probability score = -45.61283607340975
+  content =  poison  every rose has its thorn hair metal
+
+  correct = music, predicted = music, log-probability score = -33.47910632169702
+  content =  stuck in the sound  lets go indie rock
+
+  correct = music, predicted = music, log-probability score = -43.19324506997103
+  content =  the rolling stones  jumpin jack flash rock
+
+  correct = music, predicted = music, log-probability score = -36.12412631400488
+  content =  throes of rejection  pantera groove metal
+
+  correct = music, predicted = worldnews, log-probability score = -45.39077668718906
+  content =  against me  from her lips to god’s ears punk
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -59.28112266361644
+  content =  3teeth  pumped up kicks foster the people cover industrialindustrial metal
+
+  correct = music, predicted = music, log-probability score = -25.1320141873941
+  content =  buddy rich  caravan jazz
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -94.59902661635867
+  content =  the worst thing about kanyes new album is that my 60 year old white christian parents wont stop listening to it
+
+  correct = music, predicted = music, log-probability score = -30.079234624123934
+  content =  weedeater  homecoming stonersludge metal
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -37.386719266001265
+  content =  is there anything better than fleetwood mac though
+
+  correct = music, predicted = worldnews, log-probability score = -77.3154932937991
+  content =  tenebrae choir  miserere mei deus by gregorio allegri classicalvocal classic
+
+  correct = music, predicted = music, log-probability score = -45.15755087836695
+  content =  the antlers  crest tricky remix dream pop
+
+  correct = music, predicted = music, log-probability score = -30.615539333190913
+  content =  c2c  delta electrictrip hop
+
+  correct = music, predicted = music, log-probability score = -43.1575107450868
+  content =  godspeed you black emperor  sleep post rock 2000
+
+  correct = music, predicted = worldnews, log-probability score = -74.91815632818522
+  content =  bob marley master tapes unearthed in london hotel could be released negotiations ongoing
+
+  correct = music, predicted = music, log-probability score = -39.65155820258581
+  content =  alanis morissette  hand in my pocket alt rock
+
+  correct = music, predicted = music, log-probability score = -47.19127586254119
+  content =  khruangbin  leon bridges  texas sun neo soul
+
+  correct = music, predicted = music, log-probability score = -50.08504948640041
+  content =  the great old ones  the shadow over innsmouth postblack metal
+
+  correct = music, predicted = music, log-probability score = -34.831903692964886
+  content =  steely dan  glamour profession jazz rock
+
+  correct = music, predicted = music, log-probability score = -39.27324209471789
+  content =  dolly parton  hard candy christmas country
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -55.67022537026111
+  content =  baz luhrmann  everybodys free to wear sunscreen inspirational
+
+  correct = music, predicted = music, log-probability score = -41.79733194167507
+  content =  ace frehley  back in the new york groove rock
+
+  correct = music, predicted = music, log-probability score = -48.26145032766955
+  content =  jackson c frank  blues run the game folk 1965
+
+  correct = music, predicted = movies, log-probability score = -45.91446452615343
+  content =  walter murphy  a fifth of beethoven classical disco
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -45.844318474121316
+  content =  for all you 2000s kids like me check this playlist out
+
+  correct = music, predicted = music, log-probability score = -31.430904348473952
+  content =  dance gavin dance  blood wolf posthardcore
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -48.182172654529694
+  content =  royal blood  how did we get so dark alternative rock
+
+  correct = music, predicted = music, log-probability score = -29.106709580206804
+  content =  lordi  hard rock hallelujah rockmetal
+
+  correct = music, predicted = music, log-probability score = -56.81102606928114
+  content =  those of you with spotify share your top songs of 2019 playlists here
+
+  correct = music, predicted = music, log-probability score = -21.970576170870263
+  content =  the hu  the same folk metal
+
+  correct = music, predicted = movies, log-probability score = -44.15194736064419
+  content =  tim minchin  white wine in the sun holiday
+
+  correct = music, predicted = music, log-probability score = -19.73805224879652
+  content =  eob  brasil rock
+
+  correct = music, predicted = music, log-probability score = -29.905803937174703
+  content =  artist  santigold song  go alt indie
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -58.58927383706784
+  content =  john r butler  hand of the almighty folk no not that john butler explicit
+
+  correct = music, predicted = worldnews, log-probability score = -41.99349974686844
+  content =  huey lewis  the news  while were young pop
+
+  correct = music, predicted = music, log-probability score = -38.57926644045391
+  content =  fairport convention  a sailors life folk rock
+
+  correct = music, predicted = music, log-probability score = -40.017517633236196
+  content =  tatsuro yamashita  ride on time city pop
+
+  correct = music, predicted = music, log-probability score = -51.00346857471646
+  content =  naughty boy and mike posner  live before i die pop
+
+  correct = music, predicted = music, log-probability score = -53.371114084656604
+  content =  glen campbell  by the time i get to phoenix pop 1967
+
+  correct = music, predicted = music, log-probability score = -27.523494862871804
+  content =  keane  a bad dream altrock
+
+  correct = music, predicted = music, log-probability score = -51.67092934622633
+  content =  mannheim steamroller ft elyse davis  greensleeves christmas
+
+  correct = music, predicted = worldnews, log-probability score = -35.65515339344652
+  content =  sigur rós  svefngenglar postrock
+
+  correct = music, predicted = music, log-probability score = -38.75120340041427
+  content =  alter bridge  walking on the sky hard rock
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -57.17200731436058
+  content =  spotify which artist  music category did you listen to the most this year
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -48.302904038129014
+  content =  blake rules and netherfriends  shower time kids trap
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -52.03128391084532
+  content =  kelly tien  waiting for you in the rain funksoul 1971
+
+  correct = music, predicted = music, log-probability score = -37.33946287698113
+  content =  limozeen  because its midnite glam metal
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -104.89494507744219
+  content =  justice  helix electronic imo avd is super underrated when compared to cross justice put out some great ones in that album
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -45.95271404469775
+  content =  lesley gore  you dont own me 1964 pop
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -53.5287227138583
+  content =  oat milk  bubble tea for breakfast jazzy pop
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -107.34591389366302
+  content =  if i can get the most awards on this post i will only listen to one song for hours each day on spotify and post the end of year wrapup in december of 2020
+
+  correct = music, predicted = music, log-probability score = -34.546190826962686
+  content =  aha  take on me symphonic version symphonic pop
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -26.187915040410637
+  content =  aaliyah  one in a million rb
+
+  correct = music, predicted = music, log-probability score = -37.39142417705692
+  content =  sona jobarteh  gambia african folk
+
+  correct = music, predicted = music, log-probability score = -51.52388618069125
+  content =  flaming lips  winter wonderland psychedelic rock my favorite christmas album
+
+  correct = music, predicted = worldnews, log-probability score = -36.17412960256931
+  content =  10cc  the worst band in the world artrock
+
+  correct = music, predicted = music, log-probability score = -40.16401289929671
+  content =  psyqui ft mikanzil  pallet jpoprock
+
+  correct = music, predicted = music, log-probability score = -73.75869629058533
+  content =  eob  brasil indie rock debut track by radiohead guitarist ed obrien
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -57.86223647280418
+  content =  im sure youve come across this question but never really got an answer
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -47.84504576951162
+  content =  we won soundcloud is not changing the upload limit
+
+  correct = music, predicted = music, log-probability score = -53.75905301707964
+  content =  khruangbin and leon bridges  texas sun retrosoul psychedelic country
+
+  correct = music, predicted = music, log-probability score = -44.37171030107082
+  content =  judas priest  beyond the realms of death classic metal
+
+  correct = music, predicted = music, log-probability score = -30.552431102099757
+  content =  4 non blondes  drifting alternative rock
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -193.24416419739921
+  content =  playlist spotify has released your 2019 playlists it breaks down what youve been into this year and has all your top songs in one spot i say we trade them with your top genre’s and listen to each others favorite songs my list is pop rapposthardcore emoedm trade2019playlist
+
+  correct = music, predicted = music, log-probability score = -59.04884687740877
+  content =  rookes  new lovers indie pop official music video — youtube premiere
+
+  correct = music, predicted = music, log-probability score = -29.384353116980908
+  content =  the voidz  pink ocean experimental rock
+
+  correct = music, predicted = ShowerThoughts, log-probability score = -26.67781586407164
+  content =  albums worth a complete listen
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -53.60242559988899
+  content =  everyone should watch the report take it from a guantanamo bay lawyer
+
+  correct = movies, predicted = worldnews, log-probability score = -65.00213518494871
+  content =  bombshell used photos from footfetish sites to recreate the fox news offices
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -80.27622948726024
+  content =  whats the dumbest popular plot hole claim in a movie that makes you facepalm everytime you hear it
+
+  correct = movies, predicted = movies, log-probability score = -92.5367437782588
+  content =  ‘parasite’ leads asian charge in international oscar race ahead of ne zha weathering with you and buoyancy
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -111.31764431530245
+  content =  first image of winston duke and zazie beetz in “nine days” a reclusive man interviews human souls for the privilege to be born
+
+  correct = movies, predicted = movies, log-probability score = -210.2198609820415
+  content =  short term 12 the acclaimed 2013 indie film about a group home was both heartwarming and heartbreaking and it stands out years later for being the launchpad for a host of future stars from brie larson to lakeith stanfield to kaitlyn dever to rami malek
+
+  correct = movies, predicted = movies, log-probability score = -29.13232928087841
+  content =  stephen graham joins venom 2
+
+  correct = movies, predicted = movies, log-probability score = -48.25850033604689
+  content =  aubrey plaza returning as indie spirit awards host
+
+  correct = movies, predicted = movies, log-probability score = -59.16410801852876
+  content =  first poster for uk release of the man who killed don quixote in january 2020
+
+  correct = movies, predicted = movies, log-probability score = -28.357948907977125
+  content =  new birds of prey character posters
+
+  correct = movies, predicted = movies, log-probability score = -110.3101692678772
+  content =  how to hit a grand slam florence pugh on her banner roll ‘fighting with my family’ ‘midsommar’ ‘little women’  ‘black widow’
+
+  correct = movies, predicted = movies, log-probability score = -21.69885187525449
+  content =  the assistant trailer 1 2020
+
+  correct = movies, predicted = worldnews, log-probability score = -168.4905952458461
+  content =  leonard goldberg former 20th century fox president and producer behind such landmark projects as charlie’s angels die hard wall street broadcast news brian’s song and the simpsons dies at 85
+
+  correct = movies, predicted = movies, log-probability score = -71.74915746578253
+  content =  adam driver on the incredibly high stakes of shooting every scene in marriage story  close up
+
+  correct = movies, predicted = movies, log-probability score = -68.30109509242604
+  content =  every year my buddy edits together every trailer from that year’s movies into one trailer this is 2019
+
+  correct = movies, predicted = movies, log-probability score = -70.80211155679994
+  content =  the safdie brothers detail the 10year journey to make the adam sandler drama ‘uncut gems’
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -57.21473065318285
+  content =  john deloreans widow loses fight for back to the future royalties
+
+  correct = movies, predicted = gaming, log-probability score = -69.02808252937582
+  content =  tim robbins encourages everyone to pirate his 1999 film cradle will rock
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -50.697627165469484
+  content =  the war of the roses at 30 still one of the nastiest comedies of all time
+
+  correct = movies, predicted = movies, log-probability score = -18.152434149662366
+  content =  ‘mulan’ official trailer 2
+
+  correct = movies, predicted = movies, log-probability score = -25.7123058420577
+  content =  werner herzog on chickens
+
+  correct = movies, predicted = movies, log-probability score = -62.777249491125566
+  content =  greed official trailer 2020 isla fisher steve coogan comedy movie hd
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -36.91357032985171
+  content =  you guys should check out the movies that made us
+
+  correct = movies, predicted = movies, log-probability score = -38.34200098055542
+  content =  which film has the worst pacing youve ever seen
+
+  correct = movies, predicted = worldnews, log-probability score = -197.39450668322064
+  content =  coppola was one of the new wave that swept through hollywood in the 70s the easy riders and raging bulls who overturned the old studio system he was besties with george lucas a film maker who will go on to romanticize war in his own way
+
+  correct = movies, predicted = worldnews, log-probability score = -55.74638163102608
+  content =  terrence malicks a hidden life gets rare vatican screening
+
+  correct = movies, predicted = movies, log-probability score = -66.7690387866467
+  content =  how sam mendes and roger deakins pulled off the oneshot war epic ‘1917’
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -84.86868550251158
+  content =  first poster for drama the assistant  weinstein scandalinspired look at the day in the life of the assistant to a powerful corporate executive
+
+  correct = movies, predicted = movies, log-probability score = -52.61621969873512
+  content =  academy favoring consolidation of sound editing and sound mixing oscars
+
+  correct = movies, predicted = movies, log-probability score = -40.756362906325435
+  content =  hair love short film full  sony pictures animation
+
+  correct = movies, predicted = movies, log-probability score = -33.85088252724323
+  content =  what are some good survival in isolation movies
+
+  correct = movies, predicted = movies, log-probability score = -18.124485965047107
+  content =  official discussion the report spoilers
+
+  correct = movies, predicted = movies, log-probability score = -80.68961696936209
+  content =  get out sicario widows queen  slim daniel kaluuya is the most interesting under35 actor in hollywood
+
+  correct = movies, predicted = movies, log-probability score = -43.61764891375661
+  content =  paul thomas anderson on his writing process and advice on writing
+
+  correct = movies, predicted = worldnews, log-probability score = -140.48528806351914
+  content =  before foreign language dubbing had been perfected in films comedy duo ‘laurel  hardy’ reshot their films in spanish italian german and french speaking all of their lines phonetically
+
+  correct = movies, predicted = movies, log-probability score = -55.55963451482655
+  content =  jennifer kent’s ‘the nightingale’ wins big at australias aacta awards
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -53.366612314188565
+  content =  something i noticed on my second watch of once upon a time in hollywood
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -65.343249172769
+  content =  the irishman is getting a lot of attention but it is scorseses silence that is his most recent masterpiece
+
+  correct = movies, predicted = movies, log-probability score = -24.039432516715248
+  content =  make me watch your favorite movie
+
+  correct = movies, predicted = movies, log-probability score = -17.613437648929676
+  content =  official discussion waves spoilers
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -58.84481694060051
+  content =  i love colin farrel but i wish he chose better rolesmovies
+
+  correct = movies, predicted = movies, log-probability score = -38.10492161106232
+  content =  ‘the irishman’ perfectly depicts the banality of evil
+
+  correct = movies, predicted = movies, log-probability score = -55.724334557417826
+  content =  female filmmakers and actors discuss creating intimacy on a safe set
+
+  correct = movies, predicted = movies, log-probability score = -34.35226867717752
+  content =  werner herzog the extreme is his normal
+
+  correct = movies, predicted = movies, log-probability score = -84.50464823811396
+  content =  they shall not grow old  behind the scenes  how peter jackson decided to select environment colors
+
+  correct = movies, predicted = movies, log-probability score = -45.23106220935918
+  content =  official discussion megathread marriage story playmobile the movie the report waves
+
+  correct = movies, predicted = movies, log-probability score = -23.08868802745532
+  content =  official discussion  playmobil the movie spoilers
+
+  correct = movies, predicted = movies, log-probability score = -45.48832467685128
+  content =  ‘waves’ director dedicated to keeping theatrical experience alive
+
+  correct = movies, predicted = worldnews, log-probability score = -65.30558236390496
+  content =  gremlins at 35 the timely return of joe dantes controversial creatures
+
+  correct = movies, predicted = movies, log-probability score = -64.91986897159559
+  content =  from ford vs ferrari to super size me 2 the 10 best business movies of 2019
+
+  correct = movies, predicted = movies, log-probability score = -27.50831301583356
+  content =  what’s the best movie you’ve seen this year
+
+  correct = movies, predicted = movies, log-probability score = -85.67741092475529
+  content =  anyone ever see clint eastwoods the 1517 to paris how did such a legend make a movie so awful
+
+  correct = movies, predicted = movies, log-probability score = -43.704787532998026
+  content =  the great escape why alternatereality movies are making a comeback
+
+  correct = movies, predicted = movies, log-probability score = -50.78839800608657
+  content =  has anyone calculated the amount of halloween and christmas in a nightmare before christmas
+
+  correct = movies, predicted = movies, log-probability score = -29.797923815982152
+  content =  the playlist  the 100 best films of the decade 2010s
+
+  correct = movies, predicted = movies, log-probability score = -53.061872637228106
+  content =  what christmas movies do i need to see this month excluding the classics
+
+  correct = movies, predicted = movies, log-probability score = -31.272757825581117
+  content =  henry cavill is under appreciated
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -52.584974501839774
+  content =  the term plot twist is completely overused and usually incorrect
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -49.90984934976622
+  content =  midway  where’s the sun and why does everything look so old
+
+  correct = movies, predicted = movies, log-probability score = -43.96640323786181
+  content =  roberto gavaldón mexico’s auteur of noir
+
+  correct = movies, predicted = movies, log-probability score = -54.81926813784956
+  content =  what happens when a best international film nominee is also a best picture contender
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -30.815341821407188
+  content =  the day after a run of the mill review
+
+  correct = movies, predicted = movies, log-probability score = -27.0686340760724
+  content =  what are some of your favorite foreign films
+
+  correct = movies, predicted = movies, log-probability score = -30.957475105047223
+  content =  klaus  jesper pitches christmas  netflix
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -31.78093422135971
+  content =  dumb and dumber were really doing it 
+
+  correct = movies, predicted = worldnews, log-probability score = -23.63892864328375
+  content =  opinion on the head hunter
+
+  correct = movies, predicted = music, log-probability score = -57.46966364169971
+  content =  the rock and kevin hart play name the review on rotten tomatoes
+
+  correct = movies, predicted = movies, log-probability score = -42.260090892863815
+  content =  jumanji next level poster artwork by sneakyarts
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -72.0591723902783
+  content =  canadas oscar contender antigone offers modern take on classic greek tragedy
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -64.84763910812265
+  content =  looking for recommendations  tormented or traumatized menwomen falling in lovesoftening up
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -38.06319036056796
+  content =  bacurau is one of the greatest films i have ever seen
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -70.86801062789517
+  content =  was putting off watching vice because i hadnt heard anything positive about it i loved it
+
+  correct = movies, predicted = movies, log-probability score = -32.00299297890156
+  content =  the assistant trailer 2020 julia garner
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -59.94183024122124
+  content =  we always see threads about plot holes that arent actually plot holes but what are some plot holes that are actually plot holes
+
+  correct = movies, predicted = worldnews, log-probability score = -46.752255587842285
+  content =  under the silver lake in black and white  worth a rerelease
+
+  correct = movies, predicted = movies, log-probability score = -50.19212470758909
+  content =  grand isle 2019 starring nicolas cage  exclusive clip  basement
+
+  correct = movies, predicted = gaming, log-probability score = -69.3241832523896
+  content =  i just found about the soundtracking with edith bowman podcast and my god its amazing
+
+  correct = movies, predicted = movies, log-probability score = -83.27113545980694
+  content =  halle berry mma feature ‘bruised’ shamier anderson  adan canto join cast
+
+  correct = movies, predicted = movies, log-probability score = -18.94929405971945
+  content =  a question about goodfellas
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -35.850658173007524
+  content =  why do we perceive disfigurements as evil
+
+  correct = movies, predicted = movies, log-probability score = -19.77509352047687
+  content =  bar unity movies
+
+  correct = movies, predicted = movies, log-probability score = -48.5345953835889
+  content =  what films off the longlist tell us about the international film oscar
+
+  correct = movies, predicted = movies, log-probability score = -28.12821962035875
+  content =  present tense kristen stewart
+
+  correct = movies, predicted = worldnews, log-probability score = -32.506734439739844
+  content =  troop zero  official trailer  prime video
+
+  correct = movies, predicted = movies, log-probability score = -46.1837127139189
+  content =  the incredibly loaded actor categories this year awards season
+
+  correct = movies, predicted = ShowerThoughts, log-probability score = -94.6118146896041
+  content =  robin maugham novel ‘the wrong people’ once optioned by sal mineo adapted for screen 50 years on
+
+  correct = movies, predicted = movies, log-probability score = -49.3166223286447
+  content =  movies with an asexual male protagonist that avoids romance
+
+  correct = movies, predicted = movies, log-probability score = -30.309052382376287
+  content =  the heart of star wars  luke skywalker
+
+  correct = movies, predicted = movies, log-probability score = -27.458526100026567
+  content =  realistic depictions of first love in movies
+
+  correct = movies, predicted = music, log-probability score = -19.42125277777401
+  content =  movie spittake mashup
+
+  correct = movies, predicted = movies, log-probability score = -86.95566618548128
+  content =  brad pitt interview  ad astra fight club fincher once upon a time butch cassidy
+
+  correct = movies, predicted = movies, log-probability score = -86.98365096516176
+  content =  what are some unique sounding film or tv scores i’m doing a search for my job as a music editor
+
+  correct = movies, predicted = movies, log-probability score = -28.253243437542082
+  content =  1917 review double toasted
+
+  correct = movies, predicted = movies, log-probability score = -29.150839743825156
+  content =  need help with name of horror film
+
+  correct = movies, predicted = movies, log-probability score = -172.81022189582984
+  content =  our artist meek mill’s film “charm city kings” just got accepted into sundance meek plays the leader of a baltimore streetbike gang in an adaptation of documentary “12 o’clock boys” congrats meek and team
+
+  correct = movies, predicted = worldnews, log-probability score = -46.301544327879554
+  content =  why some european blockbusters won’t hit us screens
+
+  correct = movies, predicted = movies, log-probability score = -64.54016150185184
+  content =  oscars 3 international features spotlight young womens tales of terrors
+
+  correct = movies, predicted = movies, log-probability score = -52.55959161695438
+  content =  marmita films boards portuguese feature ‘my grandfather’s demons’
+
+  correct = movies, predicted = movies, log-probability score = -28.810811769294403
+  content =  the hobbit production diary 1
+
+  correct = movies, predicted = movies, log-probability score = -15.944351684816766
+  content =  bully official trailer
+
+  correct = worldnews, predicted = worldnews, log-probability score = -15.795092363091966
+  content =  impeachment to go ahead
+
+  correct = worldnews, predicted = worldnews, log-probability score = -131.7527614625098
+  content =  arab princes representative who illegally funneled 1 million to trump inauguration also illegally funneled 35 million to clinton campaign and boasted about his access to both candidates according to new indictment
+
+  correct = worldnews, predicted = worldnews, log-probability score = -48.275238377414354
+  content =  even 50yearold climate models correctly predicted global warming
+
+  correct = worldnews, predicted = worldnews, log-probability score = -109.46883301069833
+  content =  a man arrested in russia is accused of building a fake border with finland 15 miles from the real one and charging migrants 11000 to cross it
+
+  correct = worldnews, predicted = worldnews, log-probability score = -110.94072885311991
+  content =  trump news – live world laughing at ‘dangerously incompetent and incapable’ president says biden as congress hears ukraine actions have met impeachable standard
+
+  correct = worldnews, predicted = worldnews, log-probability score = -148.48103680642484
+  content =  a massive backwards step culturally australia will no longer have a federal department dedicated to the arts  pm scott morrison has announced the arts department will be rolled into a department that will also oversee roads and rail
+
+  correct = worldnews, predicted = worldnews, log-probability score = -61.21024149678141
+  content =  boris johnson refuses to rule out nodeal brexit and abruptly ends press conference
+
+  correct = worldnews, predicted = worldnews, log-probability score = -77.5236228525819
+  content =  trump claims he received deep respect at nato summit despite video showing world leaders laughing at him
+
+  correct = worldnews, predicted = worldnews, log-probability score = -154.80040162998205
+  content =  boris johnson likens leaked documents showing us in talks about nhs to photos of ufos prime minister says election campaign not the time to talk about his past comments about muslim women gay men single mothers and the workingclass
+
+  correct = worldnews, predicted = worldnews, log-probability score = -110.93644595025384
+  content =  major uk banks are threatening humanity by collectively propping up the global coal industry with almost £25bn in “life support” new data has revealed
+
+  correct = worldnews, predicted = worldnews, log-probability score = -53.990547797993756
+  content =  white house blocks senate resolution on armenian genocide for third time
+
+  correct = worldnews, predicted = worldnews, log-probability score = -170.91612066439635
+  content =  pakistan halts investigation into sale of 629 brides to china because of financial ties to beijing  the biggest case against traffickers has fallen apart with a court in faisalabad acquitting 31 chinese nationals charged in connection with trafficking
+
+  correct = worldnews, predicted = worldnews, log-probability score = -81.60480383418516
+  content =  20yearold rape survivor on her way to court was kidnapped and set on fire by the same men that raped her
+
+  correct = worldnews, predicted = worldnews, log-probability score = -41.032051515254246
+  content =  north korea threatens to resume calling trump ‘dotard’
+
+  correct = worldnews, predicted = worldnews, log-probability score = -98.5980799308073
+  content =  justin trudeau met with trump to explain the context of a joke he made about him with nato leaders but stopped short of apologizing
+
+  correct = worldnews, predicted = worldnews, log-probability score = -51.173416436455625
+  content =  brexit one of most spectacular mistakes in eu history says tusk
+
+  correct = worldnews, predicted = worldnews, log-probability score = -83.51284713822517
+  content =  netanyahus personal lawyer to be charged with moneylaundering netanyahu is the first sitting prime minister of israel to be indicted
+
+  correct = worldnews, predicted = worldnews, log-probability score = -55.19732616515816
+  content =  new swarm of prochina twitter bots spreads disinformation about xinjiang
+
+  correct = worldnews, predicted = ShowerThoughts, log-probability score = -54.50423787802241
+  content =  edward snowden if i came back to the us i would likely die in prison
+
+  correct = worldnews, predicted = worldnews, log-probability score = -49.6944312717305
+  content =  thousands die in japan due to overuse of antibiotics research shows
+
+  correct = worldnews, predicted = worldnews, log-probability score = -197.04989343255872
+  content =  france paralysed by biggest national strike in years — nationwide strike across france school and transport workers joined by police lawyers and hospital and airport staff general walkout could include millions of people workers angry at being forced to retire later or face reduced pensions
+
+  correct = worldnews, predicted = ShowerThoughts, log-probability score = -196.91807571554654
+  content =  people here will start dying dire warnings as stranded refugees freeze in hellish conditions near bosniacroatia border  the conditions of the refugee camp are being decried as not for human beings as officials demanded immediate relief for those languishing there
+
+  correct = worldnews, predicted = worldnews, log-probability score = -115.196581635585
+  content =  joe biden uses clip of boris johnson ‘laughing’ at trump in 2020 election advert democratic frontrunner says world leaders see president as dangerously incompetent
+
+  correct = worldnews, predicted = worldnews, log-probability score = -138.81690291070743
+  content =  house democrats move forward with articles of impeachment against president trump “the facts are uncontested the president abused his power for his own personal political benefit at the expense of our national security” pelosi said
+
+  correct = worldnews, predicted = worldnews, log-probability score = -152.66874308512772
+  content =  breathing london air same as smoking 150 cigarettes a year  it says that around 11000 coronary heart disease and stroke deaths each year in the uk are caused by particulate matter air pollution
+
+  correct = worldnews, predicted = worldnews, log-probability score = -43.98791923586953
+  content =  prince andrew’s bombshell email to ghislaine maxwell uncovered
+
+  correct = worldnews, predicted = worldnews, log-probability score = -127.40757688531866
+  content =  its demoralising firefighters warn canberra more action needed on climate change and resourcing  australian firefighters have descended on parliament house to demand more action on climate change and resourcing saying theyre sick of being ignored
+
+  correct = worldnews, predicted = worldnews, log-probability score = -44.70995610580114
+  content =  un says online antivaxxers fuelling samoa measles deaths
+
+  correct = worldnews, predicted = worldnews, log-probability score = -50.746514465885376
+  content =  more than 140000 die from measles as cases surge worldwide
+
+  correct = worldnews, predicted = worldnews, log-probability score = -83.35862995460208
+  content =  a hong kong kitchen turns into lab makes pills for protesters to help cut down on tear gas effects
+
+  correct = worldnews, predicted = worldnews, log-probability score = -219.1091069135385
+  content =  thai cave dive hero fights back tears as he tells court ‘life sentence with no parole’ inflicted by elon musk sixtythreeyearold diver from hertfordshire chokes up as he describes pain felt in ‘what should have been one of the proudest moments of his life’
+
+  correct = worldnews, predicted = worldnews, log-probability score = -82.80552563921835
+  content =  china hits back at us human rights bill recalls americas history of blood and tears of native indians
+
+  correct = worldnews, predicted = worldnews, log-probability score = -71.43804682121981
+  content =  brazilian indigenous leader davi kopenawa bolsonaro is killing my people  destroying the amazon
+
+  correct = worldnews, predicted = worldnews, log-probability score = -189.05225091922878
+  content =  as a 23yearold woman in india was heading to testify against a man who allegedly raped her a group of men that she says included her rapist attacked her and set her on fire its yet another horrifying incident in a country grappling with high levels of sexual violence against women
+
+  correct = worldnews, predicted = worldnews, log-probability score = -50.36725900439666
+  content =  iran says us must pay 130b after court ruling against trump administration
+
+  correct = worldnews, predicted = worldnews, log-probability score = -37.489509118863204
+  content =  france crippled by biggest national strike in years
+
+  correct = worldnews, predicted = worldnews, log-probability score = -73.28866358469452
+  content =  atrocity of the century uighur activist urges australia to take tougher stance against china  world news
+
+  correct = worldnews, predicted = worldnews, log-probability score = -39.320955188049155
+  content =  samoan antivaxxer arrested and denied bail
+
+  correct = worldnews, predicted = worldnews, log-probability score = -55.63243482064448
+  content =  prince philip and prince charles reportedly told prince andrew his royal career is over
+
+  correct = worldnews, predicted = worldnews, log-probability score = -63.1866070947232
+  content =  chinese fishing vessels suspected of increasingly common laser attacks on australian military
+
+  correct = worldnews, predicted = worldnews, log-probability score = -46.99299369986439
+  content =  more than 600 pakistani girls sold as brides to china
+
+  correct = worldnews, predicted = worldnews, log-probability score = -64.09469411526277
+  content =  photos show hundreds of thousands of people protesting in france in the biggest strikes against macron yet
+
+  correct = worldnews, predicted = worldnews, log-probability score = -51.256075362315954
+  content =  mass strikes in france shut eiffel tower trigger clashes
+
+  correct = worldnews, predicted = worldnews, log-probability score = -56.84758898200337
+  content =  japanese doctor made the afghan deserts green until deadly attack
+
+  correct = worldnews, predicted = worldnews, log-probability score = -68.1399455570957
+  content =  pakistan backs off prosecuting chinese sex traffickers to preserve economic ties to beijing
+
+  correct = worldnews, predicted = worldnews, log-probability score = -196.77053438837896
+  content =  the russian anticorruption activist navalny has claimed that the pm dmitry medvedev has appropriated a commercial jet for his wife’s private use the latest in a series of viral investigations into the use by senior officials of planes yachts and expensive mansions for their families and lovers
+
+  correct = worldnews, predicted = worldnews, log-probability score = -78.80397751555257
+  content =  paris shut down more than 800000 people march against macron as strikes grip france  world news
+
+  correct = worldnews, predicted = worldnews, log-probability score = -147.68914355357057
+  content =  photo of hong kong policewoman sitting on 14yearold schoolgirls head sparks outrage the police later issued a statement that minimum force was used on the unruly student  referring to the incident involving policewoman sitting on the schoolgirls head
+
+  correct = worldnews, predicted = worldnews, log-probability score = -172.42919249172536
+  content =  russian secret agents have reportedly been operating out of villages in the french alps two agents alexander petrov and ruslan roshirov were accused of poisoning defected russian spy sergei skripal and his daughter yulia in the uk in 2018
+
+  correct = worldnews, predicted = worldnews, log-probability score = -71.653961503577
+  content =  chinese scientist’s claims he created hivresistant ‘crispr babies’ a ‘deliberate falsehood’ researchers say
+
+  correct = worldnews, predicted = worldnews, log-probability score = -46.698173672854004
+  content =  china fires ‘great cannon’ cyberweapon at the hong kong prodemocracy movement
+
+  correct = worldnews, predicted = worldnews, log-probability score = -165.23626137346238
+  content =  denouncing macrons neoliberal pension reforms hundreds of thousands of striking workers bring france to a halt  we have one of the best pension systems in the world if not the best yet the president has decided purely out of ideology to wipe it out
+
+  correct = worldnews, predicted = worldnews, log-probability score = -148.7180136436444
+  content =  icc holds hearing on afghanistan war crimes including us torture  the current hearing will examine allegations that us troops and intelligence operatives tortured raped and abused afghan prisoners between 2003 and 2004
+
+  correct = worldnews, predicted = worldnews, log-probability score = -45.264651502734466
+  content =  israel netanyahu cousin and associates to be charged with corruption
+
+  correct = worldnews, predicted = worldnews, log-probability score = -168.25689592520104
+  content =  4 accused in hyderabad rapemurder case killed in encounter a rape and murder incident 10 days ago that shook india has served justice by police killing all 4 in an encounter at exactly same place and time of where the incident took place
+
+  correct = worldnews, predicted = worldnews, log-probability score = -78.84012012720753
+  content =  president of gainax anime studio known for evangelion arrested for allegedly taking photos of nude teen
+
+  correct = worldnews, predicted = worldnews, log-probability score = -204.03262839038987
+  content =  general election tory plan for first 100 days of govt branded ‘pure fantasy’ johnson has pledged to cut taxes for hardworking familieschange the law on releasing serious offenders halfway through a prison sentence and boost funding for schools within the first 100 days of govt if he is reelected
+
+  correct = worldnews, predicted = worldnews, log-probability score = -80.8251133403548
+  content =  the us sanctioned a russian hacking group called evil corp for stealing more than 100 million from banks
+
+  correct = worldnews, predicted = worldnews, log-probability score = -140.487881483463
+  content =  more than half a million hermit crabs killed by plastic waste on remote islands trapped hermit crabs emit a chemical signal when they die that attracts more hermit crabs which leads to more deaths
+
+  correct = worldnews, predicted = worldnews, log-probability score = -48.96399938513333
+  content =  ambassador says china will retaliate if canada places human rights sanctions
+
+  correct = worldnews, predicted = worldnews, log-probability score = -125.25865948056895
+  content =  financial institutions have chaneled 745 billion over the past three years to new coal power projects worldwide despite effort to reduce fossil fuel use to fight climate change
+
+  correct = worldnews, predicted = worldnews, log-probability score = -55.433828013779745
+  content =  taiwan only open country in asia for civic freedoms ngo report
+
+  correct = worldnews, predicted = worldnews, log-probability score = -47.276531590862795
+  content =  samoa measles outbreak antivaxxer arrested and denied bail
+
+  correct = worldnews, predicted = worldnews, log-probability score = -52.384363456758095
+  content =  giuliani in ukraine with conservative news outlet in effort to discredit impeachment probe
+
+  correct = worldnews, predicted = worldnews, log-probability score = -87.03263493688756
+  content =  indonesian man faints as he receives 100 lashes as per sharia law for having sex before marriage
+
+  correct = worldnews, predicted = worldnews, log-probability score = -82.5924342317876
+  content =  14yearold christian girl kidnapped forced to marry muslim  pakistans trafficking epidemic explodes
+
+  correct = worldnews, predicted = worldnews, log-probability score = -48.20795774680205
+  content =  newborn found alive in shallow grave now thriving
+
+  correct = worldnews, predicted = worldnews, log-probability score = -112.95847059404451
+  content =  three major slaughterhouses in canada are now closed following an e coli outbreak the torontobased meatpackers were also accused of cruelty to animals
+
+  correct = worldnews, predicted = worldnews, log-probability score = -68.07850075697078
+  content =  former chinese rights lawyer tan yongpei arrested for inciting subversion of state power
+
+  correct = worldnews, predicted = worldnews, log-probability score = -37.489509118863204
+  content =  france crippled by biggest national strike in years
+
+  correct = worldnews, predicted = worldnews, log-probability score = -56.334634387756736
+  content =  french police fire tear gas at strikers challenging macron reform
+
+  correct = worldnews, predicted = worldnews, log-probability score = -73.76542028864789
+  content =  iran has launched ‘malicious’ new malware that wipes windows computers warns ibm
+
+  correct = worldnews, predicted = worldnews, log-probability score = -94.41819063428036
+  content =  us and uk bust one of the worst cyber banking hacks in a decade charging russians in multimillion dollar scheme
+
+  correct = worldnews, predicted = worldnews, log-probability score = -64.56481384241219
+  content =  longterm damage from logging hits ability of canadas forests to regenerat
+
+  correct = worldnews, predicted = worldnews, log-probability score = -76.46436641890196
+  content =  hong kong health chief says no big increase in harmful pollution despite release of 10000 tear gas rounds
+
+  correct = worldnews, predicted = worldnews, log-probability score = -197.72975032909744
+  content =  what may have been the worlds tallest waterfall briefly formed on greenlands ice sheet last year draining a meltwater lake of 5 million cubic meters of water  equivalent to 2000 olympicsized swimming pools  in just five hours
+
+  correct = worldnews, predicted = worldnews, log-probability score = -45.839628182678865
+  content =  uks labour accuses bbc of bias over its election coverage
+
+  correct = worldnews, predicted = worldnews, log-probability score = -33.06766099000265
+  content =  france crippled by biggest strike in years
+
+  correct = worldnews, predicted = worldnews, log-probability score = -153.0745492033798
+  content =  doctors treating ebola flee dr congos east amid deadly violence doctors without borders staff say a group wielding machetes and sticks attacked its health facilities on tuesday night
+
+  correct = worldnews, predicted = worldnews, log-probability score = -51.12604660024263
+  content =  measles killed more than 140000 amid stagnating vaccine rates
+
+  correct = worldnews, predicted = worldnews, log-probability score = -48.539096637447905
+  content =  who decries collective failure as measles kills 140000
+
+  correct = worldnews, predicted = worldnews, log-probability score = -62.37090267043541
+  content =  dotard north korea revives trump taunt as hope for talks dims
+
+  correct = worldnews, predicted = worldnews, log-probability score = -194.63483265400913
+  content =  across france hundreds of thousands protest pension reform a nationwide strike brought much of france to a halt as unions kicked off a massive protest against a pension overhaul by president emmanuel macron which they say will force millions of people to work longer or face curtailed benefits
+
+  correct = worldnews, predicted = worldnews, log-probability score = -46.79404931104538
+  content =  genocide case against myanmar to be heard at highest un court
+
+  correct = worldnews, predicted = worldnews, log-probability score = -63.915118690441986
+  content =  us cracks down on russian evil corp hackers after 100 million spree
+
+  correct = worldnews, predicted = worldnews, log-probability score = -56.33848795707272
+  content =  eu investigates facebooks data collecting practices as well as googles
+
+  correct = worldnews, predicted = worldnews, log-probability score = -48.06986721494028
+  content =  strike brings france to standstill as hundreds of thousands take to streets
+
+  correct = worldnews, predicted = worldnews, log-probability score = -154.85861952128607
+  content =  “despicable and horrific” footage showing cattle in distress after having their horns removed without pain relief has prompted renewed calls for the use of pain relief to be made mandatory on australian cattle stations
+
+  correct = worldnews, predicted = worldnews, log-probability score = -159.28929077699968
+  content =  gop senator bows to white house on armenian genocide measure bowing to pressure from the white house a republican senator blocked a resolution thursday that would recognize the mass killings of armenians by ottoman turks a century ago as genocide
+
+  correct = worldnews, predicted = worldnews, log-probability score = -63.86912287430055
+  content =  gap between rich and poor grows alongside rise in uks total wealth
+
+  correct = worldnews, predicted = worldnews, log-probability score = -60.70485805758765
+  content =  bolivia election rigging in favor of morales was overwhelming oas final report
+
+  correct = worldnews, predicted = worldnews, log-probability score = -47.08889915229974
+  content =  uks largest gold nugget found in a scottish river
+
+  correct = worldnews, predicted = worldnews, log-probability score = -62.28492028407872
+  content =  nearly two thousand kilograms of cocaine from colombia siezed by polish police
+
+  correct = worldnews, predicted = worldnews, log-probability score = -74.09796148137556
+  content =  pakistan newspaper besieged by islamists calling for editor to be hanged over london bridge coverage
+
+  correct = worldnews, predicted = worldnews, log-probability score = -178.0287521686011
+  content =  an exxonowned firm figured out how to curb co2 in 1991  oil company figured out that only a high carbon price—even for today—could slow emissions the world is nowhere near the price that researchers determined in 1991 would be sufficient to cause a decline in emissions
+
+  correct = worldnews, predicted = worldnews, log-probability score = -44.33481873147123
+  content =  us says iran may have killed more than 1000 in recent protests
+
+  correct = worldnews, predicted = worldnews, log-probability score = -140.85481134825403
+  content =  uk could drop plans to tax tech firms in rush to secure us trade deal  boris johnson’s plans for a multibillionpound tax on tech companies such as google and facebook may be dropped in the postbrexit rush to secure a trade deal with the us trade experts have suggested
+
+  correct = worldnews, predicted = worldnews, log-probability score = -200.56353551942038
+  content =  a guantánamo bay detainees drawings show the brutal cia torture he endured at a secret usrun prison in thailand abu zubaydah who remains indefinitely detained drew depictions of the various ways in which he was tortured for a report published by his attorney
+
+  correct = worldnews, predicted = worldnews, log-probability score = -215.9776576807172
+  content =  fires in the amazon are causing glaciers to melt faster in the andes  when fires in the amazon emit black carbon during the peak burning season august to october winds carry these clouds of smoke to andean glaciers which can sit higher than 5000 metres above sea level
+
+  correct = worldnews, predicted = worldnews, log-probability score = -65.43337496488523
+  content =  palestinian girls’ high school unveils plaque honoring teen suicide bomber
+
+  correct = gaming, predicted = gaming, log-probability score = -38.1249522171378
+  content =  in rdr2 arthurs pupils actually dilate
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -40.245558216223486
+  content =  please dont be mean to your fellow gamers
+
+  correct = gaming, predicted = worldnews, log-probability score = -10.118008490189476
+  content =  poorviknight
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -74.30774783228958
+  content =  comic deep down you know youre just an errand boy in a world full of quest givers
+
+  correct = gaming, predicted = worldnews, log-probability score = -10.118008490189476
+  content =  blessedcar
+
+  correct = gaming, predicted = gaming, log-probability score = -38.72148781618434
+  content =  my last system was a ps2 i figured it was time
+
+  correct = gaming, predicted = worldnews, log-probability score = -59.270114987711665
+  content =  remember when epic games was known for gears of war and not fortnite
+
+  correct = gaming, predicted = gaming, log-probability score = -38.60892830520857
+  content =  halo reach aged like fine wine
+
+  correct = gaming, predicted = gaming, log-probability score = -28.763112899063596
+  content =  a pro gamer move right here
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -32.97270131668884
+  content =  rule n1 its never your fault
+
+  correct = gaming, predicted = gaming, log-probability score = -24.511199967159733
+  content =  okay i finished all 3 finally
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -16.303113741133906
+  content =  they look so pretty
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -31.095891214513117
+  content =  ah shit here we go again
+
+  correct = gaming, predicted = movies, log-probability score = -22.059794032114638
+  content =  5 star uber driver
+
+  correct = gaming, predicted = gaming, log-probability score = -39.71878485931096
+  content =  everybody reminiscing over halo and im here like
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -134.0525845451329
+  content =  we didnt have any console at home so some of my best childhood memories was getting my ass beat by my father in mario kart on a full stomach and sticky fingers
+
+  correct = gaming, predicted = worldnews, log-probability score = -22.573352050681038
+  content =  direct intervention is necessary
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -220.20013808330128
+  content =  ea announces new star wars battlefront 2 celebration edition with all cosmetic items since launch as well as a new rise of skywalker major update which includes a new map new reinforcements and new heroes bb8 and bb9e celebration edition will be 3999usd for new players or 2499 for existing
+
+  correct = gaming, predicted = gaming, log-probability score = -29.13501974783767
+  content =  saw this in local tech store
+
+  correct = gaming, predicted = gaming, log-probability score = -19.891648094883124
+  content =  jedi the titanfallen order
+
+  correct = gaming, predicted = gaming, log-probability score = -78.92008964917642
+  content =  some local guy is selling his nes game collection and i’ve never seen a game collection stacked quite like this
+
+  correct = gaming, predicted = gaming, log-probability score = -26.188683998430427
+  content =  different colors of the original playstation
+
+  correct = gaming, predicted = gaming, log-probability score = -16.420761991705188
+  content =  me with fallout 4
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -58.73385052003
+  content =  if you open the pokémon double pack from the bottom you get a little surprise
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -47.40715217797951
+  content =  gamestop thought this was an acceptable disc to give me
+
+  correct = gaming, predicted = gaming, log-probability score = -13.228129472342221
+  content =  rate my setup
+
+  correct = gaming, predicted = gaming, log-probability score = -54.04143253015906
+  content =  the hitboxes in this game are phenomenal totally next level stuff
+
+  correct = gaming, predicted = gaming, log-probability score = -20.394783684654584
+  content =  i want to do my part
+
+  correct = gaming, predicted = movies, log-probability score = -7.4137693457509055
+  content =  accurate
+
+  correct = gaming, predicted = movies, log-probability score = -30.833460267134406
+  content =  hmm interesting crafting material
+
+  correct = gaming, predicted = music, log-probability score = -7.81923445385907
+  content =  t
+
+  correct = gaming, predicted = gaming, log-probability score = -12.334777905491547
+  content =  the original minecraft
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -16.826863615880832
+  content =  almost everyone is here
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -160.87865058292118
+  content =  after failing countless times to grasp the 3day system as a kid id have to say 100ing majoras mask now as an adult may have been my most enjoyable and fulfilling gaming achievement to date
+
+  correct = gaming, predicted = movies, log-probability score = -31.870502664986688
+  content =  evolution of doctor ivo robotnik
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -34.326921904311334
+  content =  finally saved up enough to get it boys
+
+  correct = gaming, predicted = gaming, log-probability score = -50.45347536062994
+  content =  years before epic released fortnite they gave us this beast
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -52.585384331295316
+  content =  looks like joker  the rest of the phantom thieves are at it again
+
+  correct = gaming, predicted = gaming, log-probability score = -19.267607484551462
+  content =  how it’s been lately
+
+  correct = gaming, predicted = movies, log-probability score = -18.215801159253147
+  content =  christmas morning is the best
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -28.15521871814215
+  content =  this isn’t even my final form
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -27.884001726337313
+  content =  a supercomputer made out of ps3s
+
+  correct = gaming, predicted = gaming, log-probability score = -57.58330320290228
+  content =  the best strategy game i ever played thought i never did get to play the sequel
+
+  correct = gaming, predicted = gaming, log-probability score = -60.77797665973824
+  content =  i embroidered the gamecube logo onto my nike backpack a year ago
+
+  correct = gaming, predicted = gaming, log-probability score = -37.206923865365106
+  content =  fallen order has amazing hitboxes and collisions
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -27.70577381106245
+  content =  when your teacher is a top bloke
+
+  correct = gaming, predicted = gaming, log-probability score = -33.906117680844034
+  content =  just got this and am excited as fck
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -39.44696081395432
+  content =  in this game you enter bullet time when in danger
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -81.88959559293455
+  content =  this shit has been sitting in a folder on my laptop for god knows how long and i don’t know why
+
+  correct = gaming, predicted = gaming, log-probability score = -16.339828250626198
+  content =  who remembers this game
+
+  correct = gaming, predicted = gaming, log-probability score = -25.506066798795832
+  content =  reach inspired fanart by me
+
+  correct = gaming, predicted = gaming, log-probability score = -52.84047999299109
+  content =  i found my original receipt from 1999 i loved my game boy color
+
+  correct = gaming, predicted = gaming, log-probability score = -95.76929012917519
+  content =  after 15 years of tony hawks pro skater i finally got all 5 tapes in one run on downhill jam
+
+  correct = gaming, predicted = gaming, log-probability score = -64.46051544967919
+  content =  bought a new car today as a lifelong gamer i have achieved the ultimate form
+
+  correct = gaming, predicted = gaming, log-probability score = -63.21945723055038
+  content =  remember the soulja boy™ xgamestation pro  well these were the dev kits
+
+  correct = gaming, predicted = gaming, log-probability score = -38.84675470276944
+  content =  its my birthday today so i decided to treat myself
+
+  correct = gaming, predicted = gaming, log-probability score = -46.34241475851461
+  content =  boy oh boy im gonna get downvoted for this lmao
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -30.07489808033028
+  content =  what happens when you give people what they want
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -43.06193367824434
+  content =  when you realize theres a greater goal halfway through the game
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -39.439499681010815
+  content =  we did it boys console rivalry is no more
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -22.829212771207224
+  content =  you aint seen nothing yet
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -54.42781628364549
+  content =  to all my fallout fans have a great day brought to you by vaulttech
+
+  correct = gaming, predicted = gaming, log-probability score = -77.07747064050255
+  content =  had settled over to xbox after my first playstation ca 20 years ago so it’s good to be back
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -97.57285781094018
+  content =  when nintendo announces new snes games for switch online but dont include donkey kong countryagain why do you hate us nintendo
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -39.343853981006795
+  content =  we tried to fit a forklift into an elevator
+
+  correct = gaming, predicted = gaming, log-probability score = -22.829094702154833
+  content =  pikachu d luffy
+
+  correct = gaming, predicted = gaming, log-probability score = -23.505943100862556
+  content =  im something of a gamer myself
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -17.02476326883803
+  content =  sweats profusely
+
+  correct = gaming, predicted = gaming, log-probability score = -29.00458412303426
+  content =  my university has so many pokestops
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -105.89774963620363
+  content =  im moving to australia soon condensing my discs down into a wallet never thrown a games case away before feels so strange
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -29.39140305459355
+  content =  is that some kind of suicide squid 
+
+  correct = gaming, predicted = movies, log-probability score = -17.130346476847294
+  content =  ahhh the nostalgia
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -47.110047219192694
+  content =  just bought these and noticed they have the exact same pose
+
+  correct = gaming, predicted = gaming, log-probability score = -40.440644958994646
+  content =  my engineering teacher set up a smash tournament
+
+  correct = gaming, predicted = gaming, log-probability score = -21.70850350676795
+  content =  primis meultimis me
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -41.15117779092831
+  content =  playing the spiderman game that came in a box of cereal
+
+  correct = gaming, predicted = gaming, log-probability score = -39.83939720144057
+  content =  i think black friday was good to me don’t ya think
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -98.47477330380339
+  content =  it took me half a day and 12 allen keys to make this i give you the chipboard ikea aventador lp7004
+
+  correct = gaming, predicted = movies, log-probability score = -25.440594818925494
+  content =  what the fuck happened obsidian
+
+  correct = gaming, predicted = movies, log-probability score = -35.06059306087268
+  content =  map from sam  max hit the road 
+
+  correct = gaming, predicted = gaming, log-probability score = -116.11913199251727
+  content =  i started learning the basics of coding 4 years ago with an ambition to create videogames today my first ever game just launched on nintendo switch
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -44.100065559142124
+  content =  how to kill 30 of the enemy team in battlefield 4
+
+  correct = gaming, predicted = worldnews, log-probability score = -58.255896064519256
+  content =  congressman pleads guilty to using campaign funds to buy steam games
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -40.43449703846076
+  content =  cactuar is the reason nergi leaves the wastes
+
+  correct = gaming, predicted = movies, log-probability score = -21.445609895361493
+  content =  unsc space program
+
+  correct = gaming, predicted = gaming, log-probability score = -70.00571408333525
+  content =  playing reach for the first time  played all the halo’s to death but never got round to playing this for some reason
+
+  correct = gaming, predicted = gaming, log-probability score = -65.28306755339013
+  content =  we have advanced so far in graphics halo custom edition vs halo reach mcc
+
+  correct = gaming, predicted = gaming, log-probability score = -33.012910550754555
+  content =  got this poster from 2007 at gamestop
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -21.22114613084264
+  content =  try to change my mind
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -21.65391969938235
+  content =  who remembers the joyboard
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -26.144631145836637
+  content =  bbut you dont need a console
+
+  correct = gaming, predicted = gaming, log-probability score = -30.48606498576897
+  content =  my fenris dragon age 2 cosplay
+
+  correct = gaming, predicted = gaming, log-probability score = -157.50818497342456
+  content =  one of the best racing games from the ps1 days rc revenge seems to be a forgotten gem these days me and my friends made some amazing tracks in their track editor roller coasters galore
+
+  correct = gaming, predicted = gaming, log-probability score = -73.75047523200696
+  content =  how i look like after waiting five years just to find a match in halo reach mcc
+
+  correct = gaming, predicted = worldnews, log-probability score = -86.9694578129806
+  content =  after defeating ganon link found another ancient rune only what he found on it left him speachless
+
+  correct = gaming, predicted = ShowerThoughts, log-probability score = -52.85426772235894
+  content =  and i wouldve gotten away with it if it werent for you meddling gamers
+
+  correct = gaming, predicted = gaming, log-probability score = -60.74664381894059
+  content =  my husband found a dabbing dead feral ghoul and said “that’s a reddit”
+
+  correct = gaming, predicted = worldnews, log-probability score = -153.26118424766787
+  content =  repost my area is under emergency threat due to a bushfire and has been evacuated im staying at my grandparents house this is my setup i didnt have time to save my pc more info in the comments
+
+  correct = gaming, predicted = gaming, log-probability score = -44.920590759505984
+  content =  10 years later and it was finally found at the parents house
+
+  correct = gaming, predicted = gaming, log-probability score = -25.74812881067571
+  content =  early christmas present for myself
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -44.38323627939578
+  content =  baby yodas first word probably came after his second word
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -46.221470833814614
+  content =  for dogs santa must be like the final boss of mailmen
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -54.79580902531384
+  content =  your life is a pay to win rpg and your stats are randomly generated
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -32.032091371585764
+  content =  if you are a pornstar nsfw is not a thing
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -74.17393285999819
+  content =  it’s possible that more people of a certain height find you attractive because they see you from your best angle
+
+  correct = ShowerThoughts, predicted = movies, log-probability score = -60.24927767303477
+  content =  chainsaw companies not using horror movies as advertisement is a missed opportunity
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -91.77310539123394
+  content =  if any of the shows in “the bachelor” franchise really wanted to have ‘the most exciting season ever’ they’d cast only bisexuals
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -27.365778874326544
+  content =  you have never seen advertisements for microwaves
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -55.337701039510705
+  content =  don’t attend anyone’s funeral because they won’t be attending yours
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -33.21175540181215
+  content =  most of showerthoughts are actually shitty facts
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -51.53623071977084
+  content =  you probably had a synchronized fap with a random person from start to end
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -70.85733144834913
+  content =  you know you’re getting old when your childhood favorite actors start playing the grandparent role in a movie
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -57.44750331542153
+  content =  when youre looking someone directly in the eyes youre actually just focussing on one eye
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -34.90125075391847
+  content =  the average guy has seen more dicks than the average girl
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -88.78106713304408
+  content =  children who sang alouette will feel traumatised when they realise they were singing about literally pulling a bird apart
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -74.56571430562249
+  content =  its convenient that super villains dont become a problem until after a superhero gets their powers
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -39.99006265064443
+  content =  we eat sea insects but not land insects we eat land mammals but not sea mammals
+
+  correct = ShowerThoughts, predicted = worldnews, log-probability score = -41.07113658342814
+  content =  to us и is a backwards n but to russians n is a backwards и
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -90.44016543114297
+  content =  amazon delivery people who cleverly hide packages to prevent porchpirate theft do not get enough credit
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -59.19991989041306
+  content =  snakes can uniquely fulfil the role of both fleshlights and dildos
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -37.1864842629386
+  content =  you know your spelling sucks when autocorrect doesnt autocorrect
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -78.54170837094358
+  content =  jim carrey would have been a better successor to robin williams genie than will smith
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -42.67606981716682
+  content =  songs are usually good until you use them as an alarm
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -74.32903271873651
+  content =  noone has bad handwriting some people just write in fonts that we havent learned how to read
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -103.42211707870186
+  content =  some of our pets have the most elaborate internet lives that they don’t even know about they spend their whole existence inside our homes millions of people know who they are but they only know you
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -46.26152238951512
+  content =  if youre one in a million in india there would still be 1300 of you
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -58.83702295983611
+  content =  if you live till your 30th birthday you have spent a month of your life celebrating your birthday
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -66.53785572872381
+  content =  if a lightsaber gets stabbed into sand it might make glass due to the heat
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -56.904042739099665
+  content =  16 years in age is considered young but it was a long time ago in normal years
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -62.65215520962636
+  content =  if air becomes a valuable resource in the future packets of chips will be really valuable
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -68.66613481705106
+  content =  no matter how bored you are with your partner somebody else wishes they were in a relationship with them
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -38.143440071588515
+  content =  think about it all of your baby teeth are still out there
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -50.093291374818435
+  content =  the bob ross show was one of the earliest examples of asmr
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -125.33026608640435
+  content =  smashmouth used not being the sharpest tool in the shed as an insult yet some of the most useful tools in the shed are not sharp like a hammer a wrench or some pliers
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -66.97379170869739
+  content =  the fact that people don’t walk up escalators shows how we prefer laziness over efficiency
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -145.35138166070396
+  content =  if it takes more muscles to frown then smile why does ones face hurt after laughing for 20 minutes but one can scowl all day and nothing happens besides looking angry
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -103.6696215123023
+  content =  dogs that went jogging with its owner probably understand the struggle of following a npc who is faster than walking but slower than running
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -34.574140399650275
+  content =  delivering pizza is technically a business trip
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -79.3290285904153
+  content =  the shoe was definitely planted by cinderella theres no way a perfectly fitting shoe could have just fallen off
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -99.55468578573642
+  content =  bad comedians being heckled and the heckler having funnier roasts than the comedian is the live version of the real jokes are in the comments
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -97.86280479511413
+  content =  according to newtons law of gravitation fgm1xm2d2 all girls are attracted to you even if it might be by a minuscule ammount
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -81.60133421150348
+  content =  mirrors might actually be portals we can step through but our reflection on the other side keeps getting in the way
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -79.90006992851265
+  content =  youre probably supposed to die every day from a dozen of reasons but it is prevented only because of poor timing
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -91.12246173174852
+  content =  when you see a rainbow your rainbow is different from the rainbow from a person beside you eveyone has their own private rainbow which is why you can never see a side view of a rainbow
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -106.238307409527
+  content =  if dick dastardly just raced instead of stopping to set traps every five minutes he would have won everyone of the wacky races
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -64.93519230455746
+  content =  dolphins are so smart yet we keep them in glass tanks and make them dance
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -31.09228078021865
+  content =  fireplace is a very lazy word for that
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -45.169171588173015
+  content =  college is when you realize you aren’t a main character you’re a npc
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -83.08466258626062
+  content =  maybe the fact that people write horrible songs about the grinch is part of the reason he’s such an asshole in the first place
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -24.368455361610568
+  content =  everyone you meet knows something you dont
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -63.923173208303574
+  content =  humans are the only animal that creates problems for themselves on purpose ex mathematics
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -22.051263163025723
+  content =  clockwise is clockwise because of sundials
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -64.26171105558105
+  content =  in the simpsons krusty is a major celebrity but he always wanders casually in public
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -84.27422281996128
+  content =  2019 will seem much more “real” to people in 2419 than 1619 does to us because there will be video recordings etc
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -65.15934980747936
+  content =  you will never again be as far away from your death as you are now yet you have never been so close to it
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -45.966244111841
+  content =  we havent had a star warsless decade since the 60s
+
+  correct = ShowerThoughts, predicted = worldnews, log-probability score = -102.08662998246677
+  content =  perhaps one of the reasons many young soldiers feel invincible is because almost all war stories are told from the perspective of survivors
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -23.089045712054343
+  content =  the more you work out the easier it is to work out the easier it is to work out the more you work out
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -72.39883515195936
+  content =  it’s only a matter of time before people think automatic and manual refers to cars with and without autopilot
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -57.00370375634023
+  content =  no one ever thinks about it but music is one of the most beloved and greatest inventions ever
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -64.48407034369215
+  content =  when goku goes super saiyan his pubes probably change color too
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -52.77914312165672
+  content =  the smartest person in history probably spent hisher life working in a field
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -50.260407386227854
+  content =  somewhere in the world a person has the world record of the most times they have jerked off
+
+  correct = ShowerThoughts, predicted = worldnews, log-probability score = -40.02290394636525
+  content =  aladdin was catfishing jasmine to her face
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -76.15249621471762
+  content =  there was a point in time when movies began playing hip hop music instead of rock for party scenes
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -28.2190813247337
+  content =  lying is fine as long as its down
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -109.78208289794811
+  content =  theres a slight chance that in your last masturbation you killed a spermatozoid which couldve been a genius whod save the humanity or a dictator whod kill the humanity
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -109.04132933296594
+  content =  we spend our lives working to pay for a house we barely stay in a car we mainly use for work and bills to sustain us until the next working day
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -32.616048743443656
+  content =  wanting better parents makes you a better parent
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -54.96702451938976
+  content =  there are probably a lot of people who now regret their game of thrones tattoos
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -103.41859007914633
+  content =  according to science your brain makes yourself sound better when youre singing but only to you so basically our brain has its own auto tune system
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -52.74402041320103
+  content =  if it was raining on the day jfk was assassinated he wouldnt of been assassinated
+
+  correct = ShowerThoughts, predicted = gaming, log-probability score = -41.18080210352581
+  content =  we started this decade and ended this decade with halo reach
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -55.69139571664533
+  content =  when you’re a kid spongebob is the main character of the show when you’re older squidward becomes the main character of the show
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -57.68302034093523
+  content =  if there was a pill to cure procrastination most of us would probably take it tomorrow
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -81.95833807537834
+  content =  if we could view our own health bars the way we see our characters’ in an rpg we would all be a lot healthier
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -108.00783493081303
+  content =  actual smart people are humble about their intelligence because they’re used to things they understand being explained to people who need a little help grasping the concept
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -145.43962595380287
+  content =  the concept of a horse with a horn on the forehead sounds way more coherent than a gigantic mammal with a nose so long that its used as a hand and two hornshaped teeth coming from under it
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -68.25775136189966
+  content =  if you commit murder and get the death penalty you’re basically getting a taste of your own medicine
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -45.570441582655924
+  content =  people shouldnt get angry when theyre stuck in traffic they are the traffic
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -82.60765996477564
+  content =  the better technology gets the less believable it is that santas elves are making all this stuff from a workshop
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -120.23726371700852
+  content =  the moment you find out about santa claus is the moment either you realize just how awesome your parents are or you stop believing a word they say and think they’ve lied to you your whole life
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -45.85074399433926
+  content =  the phrase no hard feelings can be used instead of no homo
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -76.10166383987482
+  content =  taking into consideration decomposition and fertilization plants have actually eaten far more humans than animals have eaten humans
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -95.35971825228363
+  content =  people complain about how much air is in chip bags but they would complain a whole lot more if they bought a bag of smashed chips
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -79.71613029173027
+  content =  in your entire life there will most likely be an integer between 11000000 that you will never see read or ever think about
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -52.30963627762015
+  content =  through the internet this generation has seen more people naked than any other in history
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -86.28501515073569
+  content =  its considered acceptable to swap saliva via kissing but if you spit into someones mouth its disgusting
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -67.47106338290654
+  content =  if space is limitless you could be staring into infinity whenever you look at the night sky
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -93.36543127248011
+  content =  spotify must release the years most played songs weeks before new year so replaying them doesnt cause them to become next years most played songs
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -133.46340221531622
+  content =  saying you hope someone dies is bad and all but saying you hope they live forever is way worse if someone lived forever they would have to watch all their friends die witness the apocalypse and float around in space all alone for eternity
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -43.267556629390754
+  content =  the word nail is a body part tool and action
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -48.93692299572744
+  content =  a dream is a movie your mind makes to keep you entertained while sleeping
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -83.64606653499278
+  content =  since you experience time only from your own perspective it could be possible that time is not moving at the same speed for different people
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -67.5992742028157
+  content =  it’s cheaper to purchase a larger tv and display a painting than it is to buy an actual painting
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -82.56927983435719
+  content =  if smoking is going to be a thing for long enough people might eventally evolve into being resistant to its damage
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -61.602457087339566
+  content =  it seems like your life moved extremely fast until you got to the point you’re at now
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -72.68754738804269
+  content =  cousins is the only family member term that does not have both a feminine and masculine form
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -95.04812810528813
+  content =  everyone has a different technique for wiping their butt but after the age of 12 no one is taught it and no one discusses it thereafter
+
+  correct = ShowerThoughts, predicted = ShowerThoughts, log-probability score = -57.43067689491522
+  content =  the chance of a man falling from the sky and stabbing you is slim but not 0
+
+performance: 361/500 posts predicted correctly

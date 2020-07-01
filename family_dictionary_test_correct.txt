@@ -1,0 +1,7 @@
+aaron {'me': 0, 'brother': 1, 'parent': 0}
+brad {'me': 0, 'brother': 0, 'parent': 1}
+daniel {'me': 0, 'brother': 1, 'parent': 0}
+david {'me': 0, 'brother': 1, 'parent': 0}
+joshua {'me': 1, 'brother': 0, 'parent': 0}
+marcie {'me': 0, 'brother': 0, 'parent': 1}
+pickard {'me': 1, 'brother': 3, 'parent': 2}
