@@ -28,7 +28,12 @@
 import re
 
 class Ctweet:
-
+    #####################################################################################
+    #
+    #   Ctweet:__init__
+    #       Default constructor for a Ctweet object
+    #
+    #####################################################################################
     def __init__(self):
         self.setId(1)
         self.setKeyword("string")
@@ -36,16 +41,35 @@ class Ctweet:
         self.setText("string")
         self.setTarget(1)
 
+    #####################################################################################
+    #
+    #   Ctweet:__str__
+    #       Used to print a Ctweet object
+    #
+    #####################################################################################
     def __str__(self):
         space = ' '
         message = space.join(self.getText())
         return self.getId() + ", " + self.getKeyword() + ", " + self.getLocation() + ", " + message + ", " + str(self.getTarget())
 
+    #####################################################################################
+    #
+    #   Ctweet:__str__
+    #       Used to print a Ctweet object
+    #
+    #####################################################################################
     def __repr__(self):
         space = ' '
         message = space.join(self.getText())
         return self.getId() + ", " + self.getKeyword() + ", " + self.getLocation() + ", " + message + ", " + str(self.getTarget())
-
+    
+    #####################################################################################
+    #
+    #   Ctweet:getters and setters
+    #       getters and setters for all member variables of a Ctweet object based on the 
+    #       5 data fields given in the kaggle project: id,keyword,location,text,target
+    #
+    #####################################################################################
     def getId(self):
         return self.id
     
@@ -76,12 +100,17 @@ class Ctweet:
     def setTarget(self, p_target):
         self.target = p_target
 
+    # END getter and setter methods
+
+    #####################################################################################
+    #
+    #   Ctweet:validate
+    #       Currently returns true for all Ctweet messages, but it can be used to
+    #       validate that the Ctweet message contains reasonable data. I have been
+    #       modifying this as I convert files, but it remains a useful function
+    #
+    #####################################################################################
     def validate(self):
         return True
-        """
-        if isinstance(self.getId(), int):
-            return True
-        else:
-            return False"""
 
 # END Ctweet class definition

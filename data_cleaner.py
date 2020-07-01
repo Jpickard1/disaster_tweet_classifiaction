@@ -26,6 +26,17 @@ from tweet import Ctweet
 
 class Cdata_cleaner:
 
+    #####################################################################################
+    #
+    #   Cdata_cleaner:read_csv
+    #       This reads a .csv file and creates a Ctweet corresponding to each line in the
+    #       file. All Ctweets are placed in self.message_list. As lines are read in,
+    #       this method also counts the number of occurences of each category.
+    #
+    #       Note: this function is commonly used to reformat .csv files into the standard
+    #       data fields used for the project: id,keyword,location,text,target
+    #
+    #####################################################################################
     def read_csv(self, p_file_path):
 
         with open(p_file_path) as csvfile:
@@ -48,11 +59,18 @@ class Cdata_cleaner:
                     self.catagories[row[4]] = self.catagories[row[4]] + 1
                 else:
                     self.catagories[row[4]] = 1
-    
+    #####################################################################################
+    #
+    #   Cdata_cleaner:getters
+    #       getter methods for all message_list and categories
+    #
+    #####################################################################################
     def getCatagories(self):
         return self.catagories
 
     def getMessages(self):
         return self.message_list
+    
+    # END getter methods
 
 # END Cdata_cleaner class definition
